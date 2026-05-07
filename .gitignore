@@ -1,0 +1,5 @@
+node_modules
+dist
+n.vite
+.DS_Store
+.env
