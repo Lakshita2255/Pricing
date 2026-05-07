@@ -1,6 +1,6 @@
-# Credex AI Spend Audit — 2-Day Starter
+# Credex AI Spend Audit
 
-This repository contains the first 2 days of a Credex-style AI spend audit app. It is intentionally a partial build: the focus is on the early product scaffolding, the spend input form, state persistence, and a basic reasoning stub for audit recommendations.
+This repository contains an early prototype of a Credex-style AI spend audit app. It is intentionally a partial build: the focus is on the product scaffolding, the spend input form, state persistence, and a basic reasoning stub for audit recommendations.
 
 ## What is included
 
